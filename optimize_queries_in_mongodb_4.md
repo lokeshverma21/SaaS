@@ -17,4 +17,6 @@ const user = await db.users.findOne({ email: 'john@example.com' });
 ---
 
 Thanks!
-Keep Coding, Keep Growing!!
+
+
+🚀Keep Coding, Keep Growing!!
